@@ -1,17 +1,21 @@
-Java Programming Course Project
+**Java Programming Course Project**
+
 This repository contains the course project for the Java Programming course (ID00CS46-3002) at Oulu University.
 
-Project Description
+**Project Description**
+
 As part of the course project, students are required to create a simple game that is a Spring Boot application. The game must have at least one player and can be anything simple, such as guess the number or hangman.
 
-requirements
+**Requirements**
+
 The game application must meet the following requirements:
 
 Must be able to create (at least) one player on the server
 Must be able to get player information from the server
 Must be able to play the game in turns with the player
 Must be able to see finished game information and winner
-System Architecture
+
+**System Architecture**
 The system architecture for the Spring application is as follows:
 
 Web client (i.e. the Web browser) is shown here only for illustration. No need to create HTML or such files in this course!
